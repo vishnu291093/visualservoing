@@ -1,1 +1,11 @@
-dsafsdf
+The flow of the visual servoing codes
+1)I have to track objects with the multi sense heeadset
+2)I have to get the distance and rotatation in 3D
+
+
+
+
+
+launch codes 
+
+roslaunch drcsim_gazebo atlas.launch
